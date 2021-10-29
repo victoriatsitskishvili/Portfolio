@@ -188,25 +188,25 @@ main {
 
   background-image: url("../assets/images/top-banner.jpeg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
 
-  background-size: cover;
-
   background-position: center;
 
+  background-size: cover;
+
   background-blend-mode: soft-light;
+
+  text-align: right;
+
+  padding: 2% 6%;
 
   min-height: 30vh;
 
   color: var(--light);
-
-  padding: 2% 6%;
 
   display: flex;
 
   justify-content: flex-end;
 
   align-items: flex-end;
-
-  text-align: right;
 
 }
 
